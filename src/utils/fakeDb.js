@@ -18,5 +18,17 @@ else{
 localStorage.setItem('FeatureJobs', JSON.stringify(FeatureJobs))
 }
 
+// get stored data
+const getStoredCart = ()=>{
+    let FeatureJobs = {}
 
-export {addToDb}
+    const storedJobs = localStorage.getItem('FeatureJobs')
+if(storedJobs){
+    FeatureJobs = JSON.parse(storedJobs)
+}
+
+return FeatureJobs
+}
+
+
+export {addToDb, getStoredCart}
