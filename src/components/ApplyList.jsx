@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const ApplyList = ({jobs}) => {
     const {id, image, jobTitle, companyName
@@ -19,7 +20,8 @@ const ApplyList = ({jobs}) => {
                 <p><small>{location}</small></p>
                 <p><small>Salary: {salary}</small></p>
             </div>
-             <button className="btn btn-active rounded-md my-2 btn-color">View Details</button>
+             {/* <button className="btn btn-active rounded-md my-2 btn-color">View Details</button> */}
+             <Link to={`/ShowDetails/${id}`}> <button className="btn btn-active rounded-md my-2 btn-color">View Details</button></Link>
         </div>
             </div>
            
