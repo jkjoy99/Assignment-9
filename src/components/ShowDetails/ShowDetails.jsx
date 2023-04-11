@@ -23,7 +23,7 @@ const ShowDetails = () => {
 
     return (               
         <div>
-            <h2 className='text-2xl text-black font-semibold text-2xl'>Job Details</h2>
+            <h2 className=' text-black font-semibold text-2xl'>Job Details</h2>
         <div className='flex mt-14'>
             <div className='w-2/4 mx-20 tracking-wide'>
             <p> <span className='font-semibold text-2xl'>Job Description:</span>  {jobDescription}</p>
