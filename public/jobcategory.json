@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "img": "https://cdn.iconscout.com/icon/premium/png-512-thumb/finance-1502749-1272959.png?f=avif&w=256",
+        "title": "Account & Finance",
+        "description": "500 Available Jobs"
+    },
+    {
+        "id": "2",
+        "img": "https://cdn.iconscout.com/icon/premium/png-512-thumb/web-designing-2048637-1728258.png?f=avif&w=256",
+        "title": "Creative Design",
+        "description": "100+ Jobs Available"
+    },
+    {
+        "id": "3",
+        "img": "https://cdn.iconscout.com/icon/premium/png-512-thumb/marketing-2955697-2453776.png?f=avif&w=256",
+        "title": "Marketing & Sales",
+        "description": "400+ Jobs Available"
+    },
+    {
+        "id": "4",
+        "img": "https://cdn.iconscout.com/icon/premium/png-512-thumb/engineering-15-451795.png?f=avif&w=256",
+        "title": "Engineering Job",
+        "description": "1000+ Jobs Available"
+    }
+
+] 
+  

@@ -1,0 +1,5 @@
+.btn-color {
+  background: linear-gradient(90deg, #7e90fe 0%, #9873ff 100%);
+  color: white;
+  border: #7e90fe;
+}
