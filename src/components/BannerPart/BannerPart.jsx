@@ -9,7 +9,7 @@ const BannerPart = () => {
                 <button className="btn btn-active btn-color rounded-xl">Lets Started</button>
             </div>
             <div className='col-6 w-4/5 h-4/5'>
-                <img src='../../assets/banner.png' alt="" />
+                <img src='../../assets/P3OLGJ1 copy 1.png' alt="" />
             </div>
         </div>
     );

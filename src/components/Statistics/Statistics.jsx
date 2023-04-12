@@ -31,31 +31,31 @@ const Statistics = () => {
         const data = [
           {
             name: "Assignment 1",
-            marks: 60,
+            marks: 55,
           },
           {
             name: "Assignment 2",
-            marks: 60,
-          },
-          {
-            name: "Assignment 3",
-            marks: 59,
-          },
-          {
-            name: "Assignment 4",
-            marks: 34,
-          },
-          {
-            name: "Assignment 5",
-            marks: 48,
-          },
-          {
-            name: "Assignment 6",
             marks: 58,
           },
           {
-            name: "Assignment 7",
+            name: "Assignment 3",
+            marks: 54,
+          },
+          {
+            name: "Assignment 4",
+            marks: 55,
+          },
+          {
+            name: "Assignment 5",
+            marks: 58,
+          },
+          {
+            name: "Assignment 6",
             marks: 60,
+          },
+          {
+            name: "Assignment 7",
+            marks: 59,
           },
           {
             name: "Assignment 8",

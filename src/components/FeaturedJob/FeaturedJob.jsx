@@ -14,11 +14,11 @@ const handleShowAll = () => {
 
     return (
        <section>
+       <div className='mb-7'>
+       <h2 className='mr-10 font-extrabold text-3xl'>Featured Jobs</h2>
+        <p>Explore thousands of job opportunities with all the information you need. Its your future</p>
+       </div>
          <div className='md:grid md:grid-cols-2 gap-5 md:justify-center md:items-center'>
-            {/* {
-                featuredJobs.slice(0,4).map(job => <SingleJob job={job} key={job.id}></SingleJob>)
-            } */}
-
        {featuredJobs.slice(0, showAll ? 6 : 4).map((job) => (
           <SingleJob key={job.id} job={job}></SingleJob>
         ))}
