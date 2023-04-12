@@ -5,7 +5,7 @@ b7a9-career-hub-jkjoy99 created by GitHub Classroom
  Discover tens of thousands of employment options with the necessary knowledge. It is the future you. Locate it here. Manage every aspect of your job application process.
 
 * Live Link
-Hosted in Netlify -> [HeroGadget]([https://herogadget.netlify.app/](https://inquisitive-moxie-f36a49.netlify.app))
+Hosted in Netlify -> [netlify](https://remarkable-blini-006a6a.netlify.app/)
 
 
 * Starter Template
