@@ -19,7 +19,7 @@ const SingleJob = ({job}) => {
                 <p><small>{location}</small></p>
                 <p><small>Salary: {salary}</small></p>
             </div>
-            <Link to={`/ShowDetails/${id}`}> <button className="btn btn-active rounded-md my-2 btn-color">View Details</button></Link>
+            <Link to={`/ShowDetails/${id}`}> <button className="btn btn-active p-2  rounded-md my-2 btn-color">View Details</button></Link>
         </div>
     );
 };

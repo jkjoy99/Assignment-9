@@ -41,7 +41,7 @@ const ShowDetails = () => {
                <p> <span className='font-semibold text-2xl'>Phone :</span>{phoneNumber}</p>
                <p> <span className='font-semibold text-2xl'>Email: </span>{email}</p>
                <p> <span className='font-semibold text-2xl'>Address :</span>{location}</p>
-               <button className='bg-blue-700 py-2 px-2 rounded text-white hover:bg-blue-900 text-center mt-5 w-full block 
+               <button className='bg-blue-700 p-2  px-2 rounded text-white hover:bg-blue-900 text-center mt-5 w-full block 
                ' onClick={() => handleAddToCart(id)}>Apply Now</button>
             </div>
         </div>

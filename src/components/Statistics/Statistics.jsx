@@ -6,42 +6,48 @@ const Statistics = () => {
     const data = [
         {
           "name": "Assignment 1",
-          "mark": 60,
-          "pv": 60,
-          "total": 60
+          "mark": 55,
+          "pv": 55,
+          "total": 55
         },
         {
           "name": "Assignment 2",
-          "mark": 59,
-          "pv": 59,
-          "total": 60
+          "mark": 58,
+          "pv": 58,
+          "total": 58
         },
         {
           "name": "Assignment 3",
-          "mark": 60,
-          "pv": 60,
-          "total": 60
+          "mark": 54,
+          "pv": 54,
+          "total": 54
         },
         {
           "name": "Assignment 4",
-          "mark": 60,
-          "pv": 60,
-          "total": 60
+          "mark": 55,
+          "pv": 55,
+          "total": 55
         },
         {
           "name": "Assignment 5",
-          "mark": 60,
-          "pv": 60,
-          "total": 60
+          "mark": 58,
+          "pv": 58,
+          "total": 50
         },
         {
           "name": "Assignment 6",
-          "mark": 57,
-          "pv": 57,
+          "mark": 60,
+          "pv": 60,
           "total": 60
         },
         {
           "name": "Assignment 7",
+          "mark": 59,
+          "pv": 59,
+          "total": 59
+        },
+        {
+          "name": "Assignment 8",
           "mark": 60,
           "pv": 60,
           "total": 60
