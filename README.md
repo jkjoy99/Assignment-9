@@ -23,3 +23,4 @@ Title Text Animation -> [Tailwind Play](https://play.tailwindcss.com/VCZwwz1e3R)
 * Hero Icon
 
 Host hero icon -> [hero-icon](https://heroicons.com/)
+
