@@ -26,7 +26,7 @@ const handleShowAll = () => {
 
         {!showAll && 
         <div onClick={handleShowAll}>
-          <Button>See All Jobs</Button>
+          <button className='bg-blue-700 py-2 px-2 rounded text-white hover:bg-blue-900 text-center mt-5 w-full block '>See All Jobs</button>
         </div>
       }  
        </section>
